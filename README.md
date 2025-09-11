@@ -13,7 +13,7 @@
 </h1>
                                                    
 
-<h3 align="center">Mechanical Engineering @ UofT • Finance & AI • Process Engineering Analyst @ CIBC</h3>
+<h3 align="center">Engineering @ UofT • Finance & AI • Process Engineering Analyst @ CIBC</h3>
 
 ---
 
@@ -22,9 +22,9 @@
 I am a **Mechanical Engineering student (Mechatronics specialization, minors in AI/ML & Engineering Business)** at the University of Toronto (Dean’s Honour List, GPA 3.94, International Scholar Award $100K).
 
 Currently, I am working at **CIBC** as a Process Engineering Analyst, where I:
-- Engineered an **automation pipeline** (Power Automate + Power BI) reducing reporting time by 90%.
-- Built **sensitivity & break-even models** on 10K+ residential deals, informing risk-return decisions for a **$2B+ portfolio**.
-- Rolled out a **national Power Apps platform** used by 70+ officers, cutting cycle times by 15%.
+- Automated manual workflows using Power Automate, Excel, and Power BI to extract and analyze funding data across provinces, reducing reporting time and enhancing real-time insights for stakeholders.
+- Mapped and optimized end-to-end mortgage processes, leading Lean Six Sigma–driven pain point analysis, sensitivity/break-even models, and stakeholder workshops with senior directors to inform decision-making.
+- Designed and deployed national-scale Power Apps solutions used by 70+ Residential Operations officers, enabling large-scale issue tracking (1,500+ data points weekly) and reducing cycle times for post-approval funding processes.
 
 Beyond engineering, I am the **Founder of ArcAI** (AI-powered investment app) and **FertiliserIndia.com** (30K+ MAU, 100K+ monthly pageviews, monetized via Google AdSense). I also serve as **Co‑Founder & President** of UTSCIM, UofT’s Supply Chain & Intelligence Management Club, where I’ve secured $10K+ sponsorships and launched AI-driven supply chain projects.
 
