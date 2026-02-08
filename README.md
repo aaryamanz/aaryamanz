@@ -26,7 +26,7 @@ Currently, I am working at **CIBC** as a Process Engineering Analyst, where I:
 - Mapped and optimized end-to-end mortgage processes, leading Lean Six Sigma–driven pain point analysis, sensitivity/break-even models, and stakeholder workshops with senior directors to inform decision-making.
 - Designed and deployed national-scale Power Apps solutions used by 70+ Residential Operations officers, enabling large-scale issue tracking (1,500+ data points weekly) and reducing cycle times for post-approval funding processes.
 
-Beyond engineering, I am the **Founder of ArcAI** (AI-powered investment app) and **FertiliserIndia.com** (30K+ MAU, 100K+ monthly pageviews, monetized via Google AdSense). I also serve as **Co‑Founder & President** of UTSCIM, UofT’s Supply Chain & Intelligence Management Club, where I’ve secured $10K+ sponsorships and launched AI-driven supply chain projects.
+Beyond engineering, I am the **Founder of ArcAI** (AI-powered investment app) and **FertiliserIndia.com** (30K+ MAU, 100K+ monthly pageviews, monetized via Google AdSense). I also served as **Co‑Founder & President** of UTSCIM, UofT’s Supply Chain & Intelligence Management Club.
 
 My work blends **finance, AI, and business strategy** driven by a vision to bridge **technology, analytics, and entrepreneurship** into impactful real-world solutions.
 
